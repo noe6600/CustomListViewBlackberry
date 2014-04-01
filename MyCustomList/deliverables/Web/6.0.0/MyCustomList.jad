@@ -1,0 +1,16 @@
+MIDlet-Name: MyCustomList
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: BlackBerry Developer
+MIDlet-Jar-URL: MyCustomList.jar
+MIDlet-Jar-Size: 8603
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: ,res/img/icon.png,
+RIM-MIDlet-Flags-1: 0
+Manifest-Version: 1.0
+RIM-COD-URL: MyCustomList.cod
+RIM-COD-Size: 3912
+RIM-COD-Creation-Time: 1302514993
+RIM-COD-Module-Name: MyCustomList
+RIM-COD-Module-Dependencies: net_rim_cldc
+RIM-COD-SHA1: ac 0a 4c ea 50 87 1e 0a cb 76 94 d3 3e 78 d3 df 36 9b 39 2c
